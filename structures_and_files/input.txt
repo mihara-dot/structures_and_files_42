@@ -1,0 +1,5 @@
+Smith;John;Robert;PhD;Artificial intelligence;20
+Brown;Emily;Anne;MSc;Data analysis;15
+Taylor;James;Peter;PhD;Machine learning;12.5
+Wilson;Olivia;Grace;PhD;Computer vision;18
+Davis;Michael;Paul;MSc;Information systems;9
